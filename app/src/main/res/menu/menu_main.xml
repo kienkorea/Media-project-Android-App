@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_stock"
+        android:title="주식"
+        android:icon="@drawable/ic_stock" />
+    <item
+        android:id="@+id/navigation_community"
+        android:title="커뮤니티"
+        android:icon="@drawable/ic_community" />
+    <item
+        android:id="@+id/navigation_info"
+        android:title="더보기"
+        android:icon="@drawable/ic_info" />
+</menu>
